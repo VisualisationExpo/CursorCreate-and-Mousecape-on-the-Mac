@@ -28,16 +28,16 @@ Please, look at the imbedded images and watch the video too.
 This is a tutorial made on the notion that the above-mentioned files are downloaded.
 
 
-![GettingStarted](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/Post-Download%402x.png?raw=true)
+![GettingStarted](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/Post-Download%402x.png?raw=true)
 
 
 ***Opening the CursorCreate program is now in the Dock on macOS***
 
-![DockIcon](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/DockIcon%402x.png?raw=true)
+![DockIcon](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/DockIcon%402x.png?raw=true)
 
 # Now, the Hello Kitty cursor post-download
 
-![HelloKittyPostDownload](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/Locate%402x.png?raw=true)
+![HelloKittyPostDownload](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/Locate%402x.png?raw=true)
 
 
 
