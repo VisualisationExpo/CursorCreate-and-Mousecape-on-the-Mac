@@ -1,5 +1,3 @@
-# CursorCreate-and-Mousecape-on-the-Mac
-Using CursorCreate &amp; Mousecape to help getting some of all the Windows cursors over onto macOS
 A guide to using CursorCreate on macOS for the purpose of using it with Mousecape
 -
 
@@ -45,24 +43,21 @@ This is a tutorial made on the notion that the above-mentioned files are downloa
 
 *** Here's a demonstration of the CursorCreate main window with highlighted placeholders for what comes next***
 
-![CursorCreatePlaceHolder](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/LayoutPlaceholder%402x.png?raw=true)
-
-
 ***Let's add in Hello Kitty cursors to these placeholders***
 
-![CursorCreatePlaceHolder](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/KittyPlaceholder%402x.png?raw=true)
+![CursorCreatePlaceHolder](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/KittyPlaceholder%402x.png?raw=true)
 
 > Tip: the placeholder images are clickable - so feel free to try clicking on them. Also this is what I do in the GIF animation
 
 *** Let's save our sample***
 
-![SaveProject](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/SaveProject%402x.png?raw=true)
+![SaveProject](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/SaveProject%402x.png?raw=true)
 
 
 *** Export result ***
-![Result Export](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/2x-images/Results@2x.png?raw=true)
+![Result Export](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/Results@2x.png?raw=true)
 
 
 # A small movie to demonstrate some of the things mentioned in this wiki entry
 
-![GIF](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/master/CreateWithCursorCreate/movie/SampleMovie.gif?raw=true)
+![GIF](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/SampleMovie.gif?raw=true)
