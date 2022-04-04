@@ -58,6 +58,6 @@ This is a tutorial made on the notion that the above-mentioned files are downloa
 ![Result Export](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/Results@2x.png?raw=true)
 
 
-# A small movie to demonstrate some of the things mentioned in this wiki entry
+# A small movie to demonstrate some of the things mentioned in this wiki entry. Please just download this file as it's too large to view as embedded.
 
-![GIF](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/SampleMovie.gif?raw=true)
+![MOV](https://github.com/VisualisationExpo/CursorCreate-and-Mousecape-on-the-Mac/blob/main/CreateWithCursorCreate/2x-images/SampleMovie%20-%2001.mov)
